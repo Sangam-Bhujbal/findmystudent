@@ -172,7 +172,7 @@ Name,Phone,Email,Roll_No,Department
 "Alice Johnson","1234567890","alice.johnson@email.com",101,"Computer Science"
 "Bob Smith","2345678901","bob.smith@email.com",102,"Mechanical Engineering"
 "Carol Williams","3456789012","carol.williams@email.com",103,"Electrical Engineering"
-"SANGMESHWAR BHUJBAL","8080954354","sangambhujbal@gmail.com",10,"Information Technology"
+"SANGMESHWAR BHUJBAL","8080254654","sangambhujbal@gmail.com",10,"Information Technology"
 ```
 
 ### 📁 File Management:
@@ -292,9 +292,11 @@ Feel free to use, modify, and distribute for educational purposes.
 - Software engineering best practices
 
 **Academic Context**: Data Structures & Algorithms coursework project
-**Development Year**: 2024-25
+**Development Year**: 2025-26
 
 ## 📞 Support & Help
+https://www.instagram.com/sangam_bhujbal?igsh=MTB3ZGZ0a2lmODhkYg==
+t.me/sangambhujbal
 
 ### 🆘 Getting Help:
 1. **📆 Documentation**: Check `Instructions.md` for detailed usage guide
@@ -327,5 +329,6 @@ Feel free to use, modify, and distribute for educational purposes.
 **Quick Start**: `gcc -o findmystudent.exe main.c contact.c file.c populate.c && ./findmystudent.exe`
 
 ---
+
 
 **Note**: This application is designed for educational purposes and demonstrates fundamental C programming concepts. It's suitable for learning data structures, algorithms, and system programming in C.
